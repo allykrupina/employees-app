@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/employees-app/static/css/main.bf34f244.chunk.css",
+    "main.js": "/employees-app/static/js/main.15dfcad1.chunk.js",
+    "main.js.map": "/employees-app/static/js/main.15dfcad1.chunk.js.map",
+    "runtime-main.js": "/employees-app/static/js/runtime-main.cfc6486f.js",
+    "runtime-main.js.map": "/employees-app/static/js/runtime-main.cfc6486f.js.map",
+    "static/js/2.cf6388a8.chunk.js": "/employees-app/static/js/2.cf6388a8.chunk.js",
+    "static/js/2.cf6388a8.chunk.js.map": "/employees-app/static/js/2.cf6388a8.chunk.js.map",
+    "static/js/3.7f4c43f7.chunk.js": "/employees-app/static/js/3.7f4c43f7.chunk.js",
+    "static/js/3.7f4c43f7.chunk.js.map": "/employees-app/static/js/3.7f4c43f7.chunk.js.map",
+    "index.html": "/employees-app/index.html",
+    "static/css/main.bf34f244.chunk.css.map": "/employees-app/static/css/main.bf34f244.chunk.css.map",
+    "static/js/2.cf6388a8.chunk.js.LICENSE.txt": "/employees-app/static/js/2.cf6388a8.chunk.js.LICENSE.txt",
+    "static/media/App.scss": "/employees-app/static/media/officer.3e8a879c.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cfc6486f.js",
+    "static/js/2.cf6388a8.chunk.js",
+    "static/css/main.bf34f244.chunk.css",
+    "static/js/main.15dfcad1.chunk.js"
+  ]
+}
