@@ -1,8 +1,6 @@
 <body>
   <script>
   document.cookie="thirdparty=yes; Max-Age=3600; SameSite=None; Secure";
-  document.location="complete.html";
-
   if (window.parent) {
     if (/thirdparty=yes/.test(document.cookie)) {
       window.parent.postMessage('MM:3PCsupported', '*');
